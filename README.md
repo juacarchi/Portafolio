@@ -5,7 +5,7 @@ Aquí adjunto algunos de los proyectos en los que he trabajado hasta el momento,
 
 ## Proyectos desarrollados 🎮
 * [Sagitto](https://www.linkedin.com/posts/jcardenasdeveloper_crecimientoprofesional-crecimientopersonal-activity-6810664159898808320-r2qO) - Juego desarrollado en la asignatura de DEIM (Desarrollo de entornos interactivos y multidispositivos)
-* [Crimson Souls](http://www.) - Proyecto Integrado realizado en el Grado Superior realizado con Clara González.
+* [Crimson Souls](https://www.linkedin.com/posts/jcardenasdeveloper_developer-crecimiento-unity-activity-6810954971614326784-32qr) - Proyecto Integrado realizado en el Grado Superior realizado con Clara González.
 * [Juego de Animales](https://app.iquick.es/iquick+/animalscube/) - Juego 2D para niños desarrollado en iQuick
 * [Juego de Formas y colores](https://app.iquick.es/iquick+/colorshapes/) - Juego 2D para niños desarrollado en iQuick
 * [Juego de la Temporalidad](https://app.iquick.es/iquick+/temporalitygames/) - 3 minijuegos 2D para niños desarrollado en iQuick
