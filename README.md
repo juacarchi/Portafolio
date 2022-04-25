@@ -19,6 +19,7 @@ Distribución de productos en diferentes plataformas:
 📱 iOS
 💻 WEBGL
 🖥️ WINDOWS
+
 ## Gracias por el tiempo dedicado a ver mi portfolio 😄
 
 * Espero que os gusten, seguiré trabajando para ir mejorando y así conseguir crecer como profesional y como persona 🚀
