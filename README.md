@@ -6,7 +6,7 @@ Algunos proyectos no se pueden ver porque ya no están alojados en ningún servi
 ## Proyectos desarrollados 🎮 
 * [Robolution](https://youtu.be/WwP7pQ0SkJ8) - Videojuego en desarrollo en Group Games - [Proyecto Github](https://github.com/juacarchi/RobolutionTest.git)
 * [Juego de Animales](https://juacarchi.github.io/JuegoAnimalesBuild/) - Juego 2D para niños desarrollado en iQuick - [Proyecto Github](https://github.com/juacarchi/animalsCube.git)
-* [Juego de Formas y colores] - Juego 2D para niños desarrollado en iQuick - [Proyecto Github](https://github.com/juacarchi/colorShapes.git)
+* [Juego de Formas y colores](https://juacarchi.github.io/ColorShapesBuild/) - Juego 2D para niños desarrollado en iQuick - [Proyecto Github](https://github.com/juacarchi/colorShapes.git)
 * [Juego de la Temporalidad](https://juacarchi.github.io/TemporalityGameBuild/) - 3 minijuegos 2D para niños desarrollado en iQuick - [Proyecto Github](https://github.com/juacarchi/temporalityGame.git)
 * [Crimson Souls](https://www.linkedin.com/posts/jcardenasdeveloper_developer-crecimiento-unity-activity-6810954971614326784-32qr) - Proyecto Integrado realizado en el Grado Superior realizado con Clara González - [Proyecto Github](https://github.com/juacarchi/CrimsonSouls.git)
 * [Sagitto](https://www.linkedin.com/posts/jcardenasdeveloper_crecimientoprofesional-crecimientopersonal-activity-6810664159898808320-r2qO) - Juego desarrollado en la asignatura de DEIM (Desarrollo de entornos interactivos y multidispositivos) - [Proyecto Github](https://github.com/juacarchi/Sagitto_Prototype.git)
