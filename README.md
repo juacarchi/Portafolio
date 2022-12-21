@@ -2,8 +2,8 @@
 # Portfolio Juan Cárdenas 📓
 
 Aquí adjunto algunos de los proyectos en los que he trabajado hasta el momento, buscando seguir aprendiendo y mejorando día a día.
-Algunos proyectos no se pueden ver porque ya no están alojados en ningún servidor. Se está actualizando (21/12/2022)
-## Proyectos desarrollados 🎮 
+
+## Proyectos desarrollados (Actualizado 21/12/2022) 🎮 
 * [Robolution](https://youtu.be/WwP7pQ0SkJ8) - Videojuego en desarrollo en Group Games - [Proyecto Github](https://github.com/juacarchi/RobolutionTest.git)
 * [Juego de Animales](https://juacarchi.github.io/JuegoAnimalesBuild/) - Juego 2D para niños desarrollado en iQuick - [Proyecto Github](https://github.com/juacarchi/animalsCube.git)
 * [Juego de Formas y colores](https://juacarchi.github.io/ColorShapesBuild/) - Juego 2D para niños desarrollado en iQuick - [Proyecto Github](https://github.com/juacarchi/colorShapes.git)
